@@ -27,5 +27,5 @@
 
 [CNN explanation from Google's 2016 Deep Learning Course (video)](https://www.youtube.com/watch?v=jajksuQW4mc)
 
-###<font color="blue">Other:</font>
+### <font color="blue">Other:</font>
 
